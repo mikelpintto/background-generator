@@ -7,4 +7,4 @@ for(i = 1; i <= n; i++){
 	
 }
 
-console.log(f);
+console.log(f);dd
